@@ -1,7 +1,8 @@
 # RPG-React
 React-Typescript-RPG
 
-Para desenvolver este site foi utilizado:
+Using "A,W,S,D" and arrow keys to move the main character
+The following technologies were used for development:
 
 React
 Typescript
