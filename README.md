@@ -1,8 +1,8 @@
 # RPG-React
-React-Typescript-RPG
+  React-Typescript-RPG
 
-Using "A,W,S,D" and arrow keys to move the main character
-The following technologies were used for development:
+  Using "A,W,S,D" and arrow keys to move the main character
+  The following technologies were used for development:
 
 - React
 - Typescript
