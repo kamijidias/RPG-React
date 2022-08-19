@@ -15,7 +15,7 @@ export const NameBox = styled.div`
     padding: 3px;
     border-radius: 5px;
     position: absolute;
-    font-size: 12px;
+    font-size: 11px;
     text-align: center;
-    margin-top: -20px;
+    margin-top: -25px;
 `;

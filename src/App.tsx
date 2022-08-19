@@ -4,7 +4,7 @@ import { Character } from './components/Character';
 import { useCharacter } from './hooks/useCharacter'
 
 const App = () => {
-  const char = useCharacter('Kamiji');
+  const char = useCharacter('Andrew');
   const char2 = useCharacter('NPC ');
 
   useEffect(() => {
